@@ -1,6 +1,6 @@
 {
   "name": "jetemail",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Official SDK for JetEmail transactional email service",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
