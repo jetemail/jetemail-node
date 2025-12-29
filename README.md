@@ -1,12 +1,14 @@
 # JetEmail SDK
 
-Official Node.js SDK for the [JetEmail](https://api.jetemail.com) transactional email service.
+Official Node.js SDK for the [JetEmail](https://jetemail.com) transactional email service.
 
 ## Installation
 
 ```bash
 npm install jetemail
 ```
+
+> **Note:** You need to create an account at [jetemail.com](https://jetemail.com) to get an API key before using this SDK.
 
 ## Quick Start
 
